@@ -1,0 +1,13 @@
+# Ignore config.py file
+config.py
+
+
+# Ignore data folder
+/data/
+
+
+# Ignore lightning logs
+/lightning_logs/
+
+# ignore tensorboard logs
+/tb_logs/
